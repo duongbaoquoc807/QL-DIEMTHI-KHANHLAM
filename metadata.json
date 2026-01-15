@@ -1,0 +1,8 @@
+{
+  "name": "math_it_score_management_system",
+  "description": "Hệ thống phân tích dữ liệu TTCM Pro - Hoạt động tối ưu trên Vercel với Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
